@@ -1,0 +1,7 @@
+# from test1 import trans_lst,duong_min,longest_negative_subarrays
+# s = input("Nhập dãy số nguyên: ")
+# lst=trans_lst(s)  
+# print(trans_lst(s))
+# print(duong_min(lst))
+
+# print(longest_negative_subarrays(lst))
